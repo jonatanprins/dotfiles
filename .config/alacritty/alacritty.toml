@@ -1,0 +1,8 @@
+# import = ["/Users/jonatan/.config/alacritty/themes/themes/rose-pine-dawn.toml"]
+import = ["/Users/jonatan/.config/alacritty/themes/themes/gruvbox_dark.toml"]
+
+[font]
+size = 16.0
+
+[font.normal]
+family = "MesloLGL Nerd Font Mono"
